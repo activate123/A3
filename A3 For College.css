@@ -1,0 +1,45 @@
+body {
+  background-color: lightgreen;
+}
+#myDiv {
+  background-color: lightblue;
+  height: 100
+}
+#myDiv2 {
+height: 10
+  }
+  #mydiv3{
+  background-color: lightgreen;
+  height: 100;
+  width: 99%;
+    font-size: 35px;
+
+  }
+  #mydiv4{
+  
+padding:50px;
+ 
+  }
+  #mydiv5{
+ height:200px;
+ width:200px;
+  padding:200px;
+  text-align: center;
+  }
+   #mydiv6{
+ height:200px;
+ width:200px;
+  padding:200px;
+  text-align: center;
+  text-align: center;
+  }
+  
+  #footer{
+position:absolute;
+background-color: lightblue;
+bottom:0;
+width:99%;
+text-align:center;
+height:60px;
+padding:1px
+}
